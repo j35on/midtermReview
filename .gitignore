@@ -15,3 +15,7 @@ Test Review/nbproject/private/private.properties
 Test Review/nbproject/private/private.xml
 Test Review/nbproject/project.properties
 Test Review/nbproject/project.xml
+/Test Review solutions/build/
+*.xml
+*.mf
+*.properties
